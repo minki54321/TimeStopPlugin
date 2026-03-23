@@ -1,0 +1,6 @@
+name: TimeStop
+version: 1.0.0
+main: com.timestop.TimeStopPlugin
+api-version: "1.21"
+description: "시계를 F키로 들면 서버 시간이 3초 멈춤 (나 빼고)"
+authors: [Claude]
